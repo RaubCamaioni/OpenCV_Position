@@ -17,10 +17,10 @@ Algorithm Steps
    8. Decompose Homography (Fast Homography Decomposition Zhang)
    
 Dependencies
-	- Python 2.7
-	- Opencv 2
-	- Numpy
-	- Scipy
+   - Python 2.7
+   - Opencv 2
+   - Numpy
+   - Scipy
 
 Configuration
    - Camera Matrix 
