@@ -15,3 +15,13 @@ Algorithm Steps
    6. Homography From Image to Undistorted Symbol 
    7. Remove Camera Matrix
    8. Decompose Homography (Fast Homography Decomposition Zhang)
+   
+Dependencies
+	- Python 2.7
+	- Opencv 2
+	- Numpy
+	- Scipy
+
+Configuration
+   - Camera Matrix 
+   - Symbol “H”
