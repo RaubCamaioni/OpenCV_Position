@@ -9,9 +9,9 @@ Algorithm Steps
    3. Canny Line Detection
    4. Contour Detection (OpenCV Detect Contour)
    5. Contour Selection 
-      a. 12 Sides
-      b. Perimeter Threshold 
-      c. Internal Angle Threshold 
+      1. 12 Sides
+      2. Perimeter Threshold 
+      3. Internal Angle Threshold 
    6. Homography From Image to Undistorted Symbol 
    7. Remove Camera Matrix
    8. Decompose Homography (Fast Homography Decomposition Zhang)
