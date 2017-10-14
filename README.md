@@ -3,6 +3,9 @@ This algorithm calculates the position of a camera from a video feed.
 A symbol with known dimensions is extracted from the video and used to create a homography.
 The homography is then decomposed into a rotational matrix and translation matrix. 
 
+DemoVideo:
+https://drive.google.com/file/d/0BwbCtxfgDW3-UTZieW85QzhoUW8/view?usp=sharing
+
 Algorithm Steps
    1. Get Frame
    2. Gaussian Blur Grey Scale Image
