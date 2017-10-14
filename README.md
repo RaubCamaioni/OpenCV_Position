@@ -1,14 +1,14 @@
 # OpenCV_Position
 This algorithm calculates the position of a camera from a video feed.
-A symbol with known dimentions is extracted from the video and used to create a homography.
+A symbol with known dimensions is extracted from the video and used to create a homography.
 The homography is then decomposed into a rotational matrix and translation matrix. 
 
 Algorithm Steps
    1. Get Frame
-   2. Gaussian Blur Greysale Image
+   2. Gaussian Blur Grey Scale Image
    3. Canny Line Detection
-   4. Countour Detection (OpenCV Dectect Countour)
-   5. Countour Selection 
+   4. Contour Detection (OpenCV Detect Contour)
+   5. Contour Selection 
       a. 12 Sides
       b. Perimeter Threshold 
       c. Internal Angle Threshold 
