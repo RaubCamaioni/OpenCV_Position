@@ -1,0 +1,13 @@
+[project]
+name = "opencv-position"
+version = "1.0.0"
+description = "Track position of 'H' symbol in image"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.9.2",
+    "numpy>=2.1.3",
+    "opencv-python>=4.10.0.84",
+    "pyqt6>=6.7.1",
+    "scipy>=1.14.1",
+]
