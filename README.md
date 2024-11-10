@@ -35,7 +35,7 @@ Algorithm Steps
       2. Perimeter Threshold 
       3. Internal Angle Threshold 
       4. Reorder contour points clockwise
-      5. Reirder with starting point closest to red circle
+      5. Reorder with starting point closest to red circle
    6. Homography From Image to Undistorted Symbol
    7. Remove Camera Matrix
    8. Decompose Homography (Fast Homography Decomposition Zhang)
